@@ -27,7 +27,9 @@ Traditional security stacks (DLP, IDS, AV) are optimized to flag known file type
 Clone the repository and install the dependencies:
 
 `git clone https://github.com/YOUR_USERNAME/Static-Carrier-PoC.git`
+
 `cd Static-Carrier-PoC`
+
 `pip install -r requirements.txt`
 
 ### 2. Basic Usage
