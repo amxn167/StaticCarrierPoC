@@ -2,7 +2,7 @@
 
 **Masking Binary Payloads within High-Entropy Video Containers.**
 
-Most discussions around "Infinite Storage Glitches" focus on the novelty of free cloud space. This project, **Static Carrier**, approaches the concept from a Cybersecurity perspective, specifically focusing on **Information Hiding** and **Signature Erasure.** The goal was to build a utility that evaluates how multimedia containers can be used to encapsulate sensitive data. By serializing binary data into high-entropy visual "static," we can effectively mask a file's "Magic Bytes" and payload patterns, making them invisible to traditional inspection tools.
+Most discussions around "Infinite Storage Glitches" focus on the novelty of free cloud space. This model, **Static Carrier**, approaches the concept from a Cybersecurity perspective, specifically focusing on **Information Hiding** and **Signature Erasure.** The goal was to build a utility that evaluates how multimedia containers can be used to encapsulate sensitive data. By serializing binary data into high-entropy visual "static," we can effectively mask a file's "Magic Bytes" and payload patterns, making them invisible to traditional inspection tools.
 
 ## The Security Research Angle
 
